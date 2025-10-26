@@ -1,9 +1,17 @@
+/* Regular 400 */
 @font-face {
-    font-family: 'Cera Pro';
-    src: url('CeraPro-Regular.woff2') format('woff2'),
-        url('CeraPro-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+  font-family: 'Cera Pro';
+  src: url('CeraPro-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
 }
 
+/* Bold 700 */
+@font-face {
+  font-family: 'Cera Pro';
+  src: url('Cera-Pro-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
